@@ -1,6 +1,6 @@
 ## ABOUT ME
 
-Hello! I'm Fadekemi Adefemi, a Data Analyst passionate about turning numbers into meaningful insights. I enjoy exploring data, spotting patterns, and helping teams make smarter, more informed decisions. I have developed a strong foundation in data analytics and visualization. My experience includes working on projects that involve creating dashboards, generating reports, and analyzing trends that matter to stakeholders. I’m a curious problem-solver with a fast learning curve and a strong interest in business intelligence and analytics. I love working with data and am excited to keep making impact in this field especially as part of a collaborative team
+Hello! I'm Fadekemi Adefemi, a Data Analyst passionate about turning numbers into meaningful insights. I enjoy exploring data, spotting patterns, and helping teams make smarter, more informed decisions. I have developed a strong foundation in data analytics and visualization. My experience includes working on projects that involve creating dashboards, generating reports, and analyzing trends that matter to stakeholders. I’m a curious problem-solver with a fast learning curve and a strong interest in business intelligence and analytics. I am excited to keep making impact in this field especially as part of a collaborative team
 
 ## TECHNICAL SKILLS
 Technical Skills:
@@ -25,15 +25,15 @@ Attention to detail, among many others
 
 *A glimpse of some of the projects I've been working on.*
 
-** Road Accident Analysis**
+### Road Accident Analysis
 
 ![image](road accident .jpg)
 
 
 [Read More](https://github.com/Fadekemi29/Road-Accident-Dashboard)
 
-[Download Project Here](https://drive.google.com/drive/folders/13b7R1UFki6zKIr5rlA9zAoxrHBet5Cnr?usp=sharing
-)
+<a href="https://drive.google.com/drive/folders/13b7R1UFki6zKIr5rlA9zAoxrHBet5Cnr?usp=sharing
+">Download Project Here</a>
 
 **Project 2.**
 
