@@ -26,6 +26,7 @@ Attention to detail, among many others
 *A glimpse of some of the projects I've been working on.*
 
 ** Road Accident Analysis**
+
 ![image](road accident .jpg)
 
 
