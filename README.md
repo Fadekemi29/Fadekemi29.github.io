@@ -30,7 +30,8 @@ Attention to detail, among many others
 ![image](road accident .jpg)
 
 
-[Read More](https://www.linkedin.com/attach link to project/)
+[Read More](https://drive.google.com/drive/folders/13b7R1UFki6zKIr5rlA9zAoxrHBet5Cnr?usp=sharing
+)
 
 **Project 2.**
 
