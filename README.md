@@ -29,13 +29,15 @@ Attention to detail, among many others
 
 ![image](road accident .jpg)
 
+This project aims to analyse the road accidents in United Kingdom between the year 2021 and 2022, it evaluates the frequency and severity of the accidents, the number of casualties involved, the factors contributing to the accidents and possible recommendations to minimize the occurrence of accident going forward.
 
 [Read More](https://github.com/Fadekemi29/Road-Accident-Dashboard)
 
 <a href="https://drive.google.com/drive/folders/13b7R1UFki6zKIr5rlA9zAoxrHBet5Cnr?usp=sharing
 ">Download Project Here</a>
 
-**Project 2.**
+
+### SKIN CANCER ANALYSIS
 
 ![SkinCancer](https://github.com/user-attachments/assets/de47128f-5c58-49ac-9e44-44d2ba084069)
 
