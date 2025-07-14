@@ -25,14 +25,13 @@ Attention to detail, among many others
 
 *A glimpse of some of the projects I've been working on.*
 
-### Road Accident Analysis
+### ROAD ACCIDENT ANALYSIS
 
-![image](road accident .jpg)
-<img width="974" height="547" alt="Road Accident Image" src="https://github.com/user-attachments/assets/d2975023-3ace-49eb-bbfd-0a85c7c082f1" />
+![road accident ](https://github.com/user-attachments/assets/5a41e609-6dd6-442e-b61f-227aa5456400)
 
-This project aims to analyse the road accidents in United Kingdom between the year 2021 and 2022, it evaluates the frequency and severity of the accidents, the number of casualties involved, the factors contributing to the accidents and possible recommendations to minimize the occurrence of accident going forward.
+The aim of the project is to analyse the road accidents occurences in United Kingdom between the year 2021 and 2022, evaluate the frequency and severity of the accident, identity the number of casualties involved, highlight major factors contributing to the accidents and provide possible recommendations to minimize the occurrence of accident based on the outcome of the analysis.
 
-[Read More](https://github.com/Fadekemi29/Road-Accident-Dashboard)
+[Find details of the project here](https://github.com/Fadekemi29/Road-Accident-Dashboard)
 
 <a href="https://drive.google.com/drive/folders/13b7R1UFki6zKIr5rlA9zAoxrHBet5Cnr?usp=sharing
 ">Download Project Here</a>
@@ -42,13 +41,9 @@ This project aims to analyse the road accidents in United Kingdom between the ye
 
 ![SkinCancer](https://github.com/user-attachments/assets/de47128f-5c58-49ac-9e44-44d2ba084069)
 
+Analyzing DermAI Diagnostic Database to uncover links between demographics, environmental exposure, and lesion traits in skin cancer. Analyse data with SQL queries and prepare data for ML models to improve early diagnosis.
+
 [Full detail of the project is attached here](https://github.com/Fadekemi29/Skin-Cancer-Analysis)
-**Project 3. **
-
-![image](.attach picture. jpg)
-
-
-<a href="upload .pdf">Download the Report here (pdf file)</a>
 
 
 ## CONTACT DETAILS
