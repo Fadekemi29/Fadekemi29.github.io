@@ -37,7 +37,7 @@ Attention to detail, among many others
 
 **Project 2.**
 
-![image](COPY PROJECT PATH sales project.jpg)
+![SkinCancer](https://github.com/user-attachments/assets/de47128f-5c58-49ac-9e44-44d2ba084069)
 
 
 **Project 3. **
