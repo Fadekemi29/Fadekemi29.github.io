@@ -43,7 +43,7 @@ The aim of the project is to analyse the road accidents occurences in United Kin
 
 Analyzing DermAI Diagnostic Database to uncover links between demographics, environmental exposure, and lesion traits in skin cancer. Analyse data with SQL queries and prepare data for ML models to improve early diagnosis.
 
-[Full detail of the project is attached here](https://github.com/Fadekemi29/Skin-Cancer-Analysis)
+[Full detail of the project is attached here](https://github.com/Fadekemi29/SQL_Projects/tree/main/Skin_Cancer_Analysis)
 
 
 ## CONTACT DETAILS
