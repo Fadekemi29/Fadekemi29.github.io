@@ -31,7 +31,7 @@ Attention to detail, among many others
 
 The aim of the project is to analyse the road accidents occurences in United Kingdom between the year 2021 and 2022, evaluate the frequency and severity of the accident, identity the number of casualties involved, highlight major factors contributing to the accidents and provide possible recommendations to minimize the occurrence of accident based on the outcome of the analysis.
 
-[Find details of the project here](https://github.com/Fadekemi29/Road-Accident-Dashboard)
+[Find details of the project here](https://github.com/Fadekemi29/MS-Excel-Projects/tree/main/Road%20Accident%20Analysis)
 
 <a href="https://drive.google.com/drive/folders/13b7R1UFki6zKIr5rlA9zAoxrHBet5Cnr?usp=sharing
 ">Download Project Here</a>
