@@ -21,7 +21,7 @@ Critical thinking skills
 Attention to detail, among many others
 
 
-## MY PROJECT 
+## MY PROJECTS
 
 
 ### SKIN CANCER ANALYSIS
