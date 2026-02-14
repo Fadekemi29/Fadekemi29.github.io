@@ -45,6 +45,21 @@ Analyzing DermAI Diagnostic Database to uncover links between demographics, envi
 
 [Full detail of the project is attached here](https://github.com/Fadekemi29/SQL_Projects/tree/main/Skin_Cancer_Analysis)
 
+### FREELANCE GIGS ANALYTICS
+
+![FreelanceGig Dashboard](https://github.com/user-attachments/assets/your-image-id-here)
+
+This project analyzes freelancer performance across major gig platforms, exploring earnings, ratings, job categories, experience levels, and client behaviour. The goal is to uncover insights that help freelancers, clients, and stakeholders make informed decisions in the gig economy.
+
+Key insights include:
+- App Development is the highest‑earning category  
+- Intermediate freelancers earn more per hour than experts  
+- PeoplePerHour has the highest hourly rate  
+- Toptal leads in rehire rates despite lower ratings  
+
+[View full project details here](https://github.com/Fadekemi29/Tableau_Projects/tree/main/FreelanceGig_Analytics)
+
+[View Interactive Dashboard](https://public.tableau.com/app/profile/fadekemi.adefemi/viz/FreelanceGigAnalyticsDashboard/OverviewFreelanceGigAnalyticsDashboard)
 
 ## CONTACT DETAILS
 
