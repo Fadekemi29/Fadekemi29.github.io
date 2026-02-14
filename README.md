@@ -23,7 +23,15 @@ Attention to detail, among many others
 
 ## MY PROJECT 
 
-*A glimpse of some of the projects I've been working on.*
+
+### SKIN CANCER ANALYSIS
+
+![SkinCancer](https://github.com/Fadekemi29/SQL_Projects/blob/main/Skin_Cancer_Analysis/DermAi_Skin_Cancer_Analysis_Dashboard.PNG)
+
+Analyzing DermAI Diagnostic Database to uncover links between demographics, environmental exposure, and lesion traits in skin cancer. Analyse data with SQL queries and prepare data for ML models to improve early diagnosis.
+
+[Full detail of the project is attached here](https://github.com/Fadekemi29/SQL_Projects/tree/main/Skin_Cancer_Analysis)
+
 
 ### ROAD ACCIDENT ANALYSIS
 
@@ -35,15 +43,6 @@ The aim of the project is to analyse the road accidents occurences in United Kin
 
 <a href="https://drive.google.com/drive/folders/13b7R1UFki6zKIr5rlA9zAoxrHBet5Cnr?usp=sharing
 ">Download Project Here</a>
-
-
-### SKIN CANCER ANALYSIS
-
-![SkinCancer](https://github.com/user-attachments/assets/de47128f-5c58-49ac-9e44-44d2ba084069)
-
-Analyzing DermAI Diagnostic Database to uncover links between demographics, environmental exposure, and lesion traits in skin cancer. Analyse data with SQL queries and prepare data for ML models to improve early diagnosis.
-
-[Full detail of the project is attached here](https://github.com/Fadekemi29/SQL_Projects/tree/main/Skin_Cancer_Analysis)
 
 ### FREELANCE GIGS ANALYTICS
 
