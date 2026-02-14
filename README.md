@@ -57,9 +57,11 @@ Key insights include:
 - PeoplePerHour has the highest hourly rate  
 - Toptal leads in rehire rates despite lower ratings  
 
-[View full project details here](https://github.com/Fadekemi29/Tableau_Projects/tree/main/FreelanceGig_Analytics)
+[View full project details here](https://github.com/Fadekemi29/Tableau_Projects/tree/main/FreelanceGigs_Analytics)
+
 
 [View Interactive Dashboard](https://public.tableau.com/app/profile/fadekemi.adefemi/viz/FreelanceGigAnalyticsDashboard/OverviewFreelanceGigAnalyticsDashboard)
+
 
 ## CONTACT DETAILS
 
