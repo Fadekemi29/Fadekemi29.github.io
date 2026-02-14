@@ -47,7 +47,7 @@ Analyzing DermAI Diagnostic Database to uncover links between demographics, envi
 
 ### FREELANCE GIGS ANALYTICS
 
-![FreelanceGig Dashboard](https://github.com/user-attachments/assets/your-image-id-here)
+![FreelanceGig Dashboard](https://github.com/Fadekemi29/Tableau_Projects/blob/main/FreelanceGigs_Analytics/FreelanceGig%20Analytics%20Dashboard%20Image.png)
 
 This project analyzes freelancer performance across major gig platforms, exploring earnings, ratings, job categories, experience levels, and client behaviour. The goal is to uncover insights that help freelancers, clients, and stakeholders make informed decisions in the gig economy.
 
