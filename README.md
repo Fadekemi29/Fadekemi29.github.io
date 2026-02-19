@@ -46,7 +46,7 @@ The aim of the project is to analyse the road accidents occurences in United Kin
 
 ### FREELANCE GIGS ANALYTICS
 
-![FreelanceGig Dashboard](https://github.com/Fadekemi29/Tableau_Projects/blob/main/FreelanceGigs_Analytics/FreelanceGig%20Analytics%20Dashboard%20Image.png)
+![FreelanceGig Dashboard](FreelanceGig%20Analytics%20Dashboard%20Image.png)
 
 This project analyzes freelancer performance across major gig platforms, exploring earnings, ratings, job categories, experience levels, and client behaviour. The goal is to uncover insights that help freelancers, clients, and stakeholders make informed decisions in the gig economy.
 
