@@ -26,7 +26,7 @@ Attention to detail, among many others
 
 ### SKIN CANCER ANALYSIS
 
-![SkinCancer](https://github.com/Fadekemi29/Fadekemi29.github.io/blob/main/DermAi_Skin_Cancer_Analysis_Dashboard.PNG)
+![SkinCancer](DermAi_Skin_Cancer_Analysis_Dashboard.PNG)
 
 Analyzing DermAI Diagnostic Database to uncover links between demographics, environmental exposure, and lesion traits in skin cancer. Analyse data with SQL queries and prepare data for ML models to improve early diagnosis.
 
