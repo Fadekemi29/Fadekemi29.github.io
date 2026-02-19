@@ -35,7 +35,7 @@ Analyzing DermAI Diagnostic Database to uncover links between demographics, envi
 
 ### ROAD ACCIDENT ANALYSIS
 
-<a href="road%20accident .jpg"></a>
+<img src="road%20accident .jpg"alt="road accident">
 
 The aim of the project is to analyse the road accidents occurences in United Kingdom between the year 2021 and 2022, evaluate the frequency and severity of the accident, identity the number of casualties involved, highlight major factors contributing to the accidents and provide possible recommendations to minimize the occurrence of accident based on the outcome of the analysis.
 
